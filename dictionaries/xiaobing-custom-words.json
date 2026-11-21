@@ -1,6 +1,6 @@
 {
   "name": "XiaoBing Custom Vocabulary",
-  "version": "5",
+  "version": "6",
   "words": [
     {
       "id": "xb00001",
@@ -81,6 +81,16 @@
   	"pos_zh": "动词",
   	"pos_en": "verb",
   	"gloss_en": "to return"
-   }
+   },
+    {
+  "id": "xb00009",
+  "simplified": "好的",
+  "traditional": "好的",
+  "pinyin": "hǎo de",
+  "pinyin_num": "hao3de5",
+  "pos_zh": "感叹词/应答语",
+  "pos_en": "interjection/expression",
+  "gloss_en": "okay; all right; sure (used to express agreement)"
+}
   ]
 }
