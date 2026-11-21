@@ -1,6 +1,6 @@
 {
   "name": "XiaoBing Custom Vocabulary",
-  "version": "8",
+  "version": "9",
   "words": [
     {
       "id": "xb00001",
@@ -261,7 +261,26 @@
     "pos_zh": "名词",
     "pos_en": "noun",
     "gloss_en": "school bus"
+  },
+{
+    "id": "xb00027",
+    "simplified": "烟霾",
+    "traditional": "煙霾",
+    "pinyin": "yān mái",
+    "pinyin_num": "yan2 mai2",
+    "pos_zh": "名词",
+    "pos_en": "noun",
+    "gloss_en": "haze; smoke-haze (environmental air pollution)"
+  },
+  {
+    "id": "xb00028",
+    "simplified": "雾霾",
+    "traditional": "霧霾",
+    "pinyin": "wù mái",
+    "pinyin_num": "wu4 mai2",
+    "pos_zh": "名词",
+    "pos_en": "noun",
+    "gloss_en": "smog; environmental haze"
   }
-
   ]
 }
