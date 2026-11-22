@@ -1,6 +1,6 @@
 {
   "name": "XiaoBing Custom Vocabulary",
-  "version": "10",
+  "version": "11",
   "words": [
     {
       "id": "xb00001",
@@ -291,6 +291,26 @@
   "pos_zh": "动词",
   "pos_en": "verb",
   "gloss_en": "to receive"
+},
+{
+  "id": "xb00030",
+  "simplified": "杯",
+  "traditional": "杯",
+  "pinyin": "bēi",
+  "pinyin_num": "bei1",
+  "pos_zh": "量",
+  "pos_en": "measure word",
+  "gloss_en": "cup of; glass of"
+},
+{
+  "id": "xb00031",
+  "simplified": "稍等",
+  "traditional": "稍等",
+  "pinyin": "shāo děng",
+  "pinyin_num": "shao1 deng3",
+  "pos_zh": "动",
+  "pos_en": "verb",
+  "gloss_en": "to wait a moment; to hold on (for a short while)"
 }
   ]
 }
