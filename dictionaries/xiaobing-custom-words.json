@@ -420,7 +420,7 @@
   "pinyin_num": "you3 dian3",
   "pos_zh": "副词",
   "pos_en": "adverb",
-  "gloss_en": "somewhat; a bit; a little"
+  "gloss_en": "somewhat; a bit; a little",
   "note": "Southern/Spoken variant of '有点儿'"
 },
   {
@@ -431,7 +431,7 @@
     "pinyin_num": "yi1 dian3",
     "pos_zh": "副词/量词",
     "pos_en": "adverb/measure word",
-    "gloss_en": "a bit; a little"
+    "gloss_en": "a bit; a little",
     "note": "Southern/Spoken variant of HSK 1 '一点儿'"
   },
   {
@@ -472,7 +472,7 @@
   "pinyin_num": "nv3hai2",
   "pos_zh": "名词",
   "pos_en": "noun",
-  "gloss_en": "girl; lass",
+  "gloss_en": "girl; lass"
 },
 {
   "id": "xb00048",
@@ -482,7 +482,7 @@
   "pinyin_num": "nan2hai2",
   "pos_zh": "名词",
   "pos_en": "noun",
-  "gloss_en": "boy; lad",  
+  "gloss_en": "boy; lad"  
 },
 {
   "id": "xb00049",
@@ -492,7 +492,7 @@
   "pinyin_num": "xiao3hai2",
   "pos_zh": "名词",
   "pos_en": "noun",
-  "gloss_en": "child; kid; infant",
+  "gloss_en": "child; kid; infant"
 },
 {
   "id": "xb00050",
@@ -502,7 +502,7 @@
   "pinyin_num": "gan4huo2",
   "pos_zh": "动词",
   "pos_en": "verb",
-  "gloss_en": "to work; to do manual labor; to work on a job",
+  "gloss_en": "to work; to do manual labor; to work on a job"
 },
 {
   "id": "xb00051",
@@ -512,7 +512,7 @@
   "pinyin_num": "mei2fa3",
   "pos_zh": "副词 / 动词",
   "pos_en": "adverb / verb",
-  "gloss_en": "cannot; to have no way (to do something); unable to; helpless",
+  "gloss_en": "cannot; to have no way (to do something); unable to; helpless"
 },
 {
   "id": "xb00052",
@@ -522,7 +522,7 @@
   "pinyin_num": "da4huo3",
   "pos_zh": "代词",
   "pos_en": "pronoun",
-  "gloss_en": "everybody; everyone; all of us; the whole crowd",
+  "gloss_en": "everybody; everyone; all of us; the whole crowd"
 },
 {
   "id": "xb00053",
@@ -532,7 +532,7 @@
   "pinyin_num": "xiao3tou1",
   "pos_zh": "名词",
   "pos_en": "noun",
-  "gloss_en": "thief; petty thief; burglar",
+  "gloss_en": "thief; petty thief; burglar"
 },
 {
   "id": "xb00054",
@@ -542,7 +542,7 @@
   "pinyin_num": "lao3ban4",
   "pos_zh": "名词",
   "pos_en": "noun",
-  "gloss_en": "husband or wife (of an old couple); old spouse; life companion",
+  "gloss_en": "husband or wife (of an old couple); old spouse; life companion"
 },
 {
   "id": "xb00055",
@@ -552,7 +552,7 @@
   "pinyin_num": "du2zuo4",
   "pos_zh": "动词",
   "pos_en": "verb",
-  "gloss_en": "to be read as; to be pronounced as (e.g., for symbols, numbers, or characters)",
+  "gloss_en": "to be read as; to be pronounced as (e.g., for symbols, numbers, or characters)"
 },
 {
   "id": "xb00056",
@@ -562,7 +562,7 @@
   "pinyin_num": "fang2",
   "pos_zh": "名词 / 量词",
   "pos_en": "noun / classifier",
-  "gloss_en": "house; room; building; branch of an extended family",
+  "gloss_en": "house; room; building; branch of an extended family"
   "hsk_band": 1
 },
 {
@@ -573,7 +573,7 @@
   "pinyin_num": "ji3dian3",
   "pos_zh": "代词 / 短语",
   "pos_en": "pronoun / phrase",
-  "gloss_en": "what time?; what o'clock?", 
+  "gloss_en": "what time?; what o'clock?"
 },
 {
   "id": "xb00058",
@@ -583,7 +583,7 @@
   "pinyin_num": "mei2",
   "pos_zh": "副词 / 动词",
   "pos_en": "adverb / verb",
-  "gloss_en": "not; have not; did not (negative prefix for verbs)",
+  "gloss_en": "not; have not; did not (negative prefix for verbs)"
   "hsk_band": 1
 },
 {
@@ -594,7 +594,7 @@
   "pinyin_num": "tai4 bang4 le5",
   "pos_zh": "短语 / 感叹词",
   "pos_en": "phrase / exclamation",
-  "gloss_en": "awesome!; wonderful; great!; that's fantastic",
+  "gloss_en": "awesome!; wonderful; great!; that's fantastic"
 },
 {
   "id": "xb00061",
@@ -604,7 +604,7 @@
   "pinyin_num": "can1",
   "pos_zh": "名词 / 动词",
   "pos_en": "noun / verb",
-  "gloss_en": "meal; food; cuisine; to eat", 
+  "gloss_en": "meal; food; cuisine; to eat" 
 },
 {
   "id": "xb00062",
@@ -614,7 +614,7 @@
   "pinyin_num": "kang4",
   "pos_zh": "动词",
   "pos_en": "verb",
-  "gloss_en": "to resist; to fight; to combat; to oppose; to refuse",
+  "gloss_en": "to resist; to fight; to combat; to oppose; to refuse"
 },
 {
   "id": "xb00063",
@@ -624,7 +624,7 @@
   "pinyin_num": "xian4",
   "pos_zh": "名词 / 动词 / 形容词",
   "pos_en": "noun / verb / adjective",
-  "gloss_en": "present; current; appear; manifest; become visible; cash",
+  "gloss_en": "present; current; appear; manifest; become visible; cash"
 },
 {
   "id": "xb00064",
@@ -634,7 +634,7 @@
   "pinyin_num": "bian4xian4",
   "pos_zh": "动词 / 名词",
   "pos_en": "verb / noun",
-  "gloss_en": "to monetize (traffic, assets, content); to cash out; to liquidate into cash; monetization",
+  "gloss_en": "to monetize (traffic, assets, content); to cash out; to liquidate into cash; monetization"
 },
 {
   "id": "xb00065",
@@ -644,7 +644,7 @@
   "pinyin_num": "pin2",
   "pos_zh": "副词 / 名词",
   "pos_en": "adverb / noun",
-  "gloss_en": "frequently; repeatedly; frequency; channel; (root for video/audio terms)",
+  "gloss_en": "frequently; repeatedly; frequency; channel; (root for video/audio terms)"
 }
 
 
